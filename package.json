@@ -13,6 +13,6 @@
   "author": "fchasen@gmail.com",
   "license": "MIT",
   "peerDependencies": {
-    "react-native": "^0.49.1"
+    "react-native": "^0.48.3"
   }
 }
